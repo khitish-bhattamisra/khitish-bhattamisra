@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khitish-bhattamisra&label=Profile%20views&color=0e75b6&style=flat" alt="khitish-bhattamisra" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Java Script, DevOps Tools**
+- 🌱 I’m currently learning **NodeJS**
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, PL/SQL, HTML, CSS, Java Script, DevOps Tools, XML, JSON**
 
 - 📫 How to reach me **bhattamisrakhitish10@gmail.com**
 
